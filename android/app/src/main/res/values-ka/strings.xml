@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">თარო</string>
+
+    <string name="prayer_fajr">ფაჯრ</string>
+    <string name="prayer_sunrise">აღმავლობა</string>
+    <string name="prayer_dhuhr">ზუჰრ</string>
+    <string name="prayer_asr">\'ასრ</string>
+    <string name="prayer_maghrib">მაგრიბ</string>
+    <string name="prayer_isha">\'იშა</string>
+    <string name="nullTime">--:--</string>
+</resources>

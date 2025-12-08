@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Полиця</string>
+
+    <string name="prayer_fajr">Фаджр</string>
+    <string name="prayer_sunrise">Схід</string>
+    <string name="prayer_dhuhr">Зухр</string>
+    <string name="prayer_asr">\'Аср</string>
+    <string name="prayer_maghrib">Магриб</string>
+    <string name="prayer_isha">\'Іша</string>
+    <string name="nullTime">--:--</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Полка</string>
+
+    <string name="prayer_fajr">Фаджр</string>
+    <string name="prayer_sunrise">Восход</string>
+    <string name="prayer_dhuhr">Зухр</string>
+    <string name="prayer_asr">\'Аср</string>
+    <string name="prayer_maghrib">Магриб</string>
+    <string name="prayer_isha">\'Иша</string>
+    <string name="nullTime">--:--</string>
+</resources>

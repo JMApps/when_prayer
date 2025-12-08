@@ -1,0 +1,105 @@
+name: when_prayer
+description: "When Prayer"
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # Design
+  cupertino_icons: ^1.0.8
+  flutter_html: ^3.0.0
+  html: ^0.15.5+1
+  percent_indicator: ^4.2.5
+  square_progress_indicator: ^0.0.8
+  smooth_page_indicator: ^2.0.1
+  sleek_circular_slider: ^2.1.0
+  step_progress_indicator: ^1.0.2
+  salomon_bottom_bar: ^3.3.2
+  scrollable_positioned_list: ^0.3.8
+  responsive_builder: ^0.7.1
+  flutter_material_color_picker: ^1.2.0
+  syncfusion_flutter_datepicker: ^31.2.16
+  home_widget: ^0.8.1
+
+  # Databases
+  sqflite: ^2.4.2
+  hive_flutter: ^1.1.0
+
+  # Path
+  path: ^1.9.1
+  path_provider: ^2.1.5
+
+  # Copy/Share
+  share_plus: ^12.0.1
+  clipboard: ^2.0.2
+
+  # State
+  provider: ^6.1.5+1
+
+  # Times
+  adhan: ^2.0.0+1
+  hijri: ^3.0.0
+  intl: ^0.20.2
+  timezone: ^0.10.1
+  cron: ^0.6.2
+
+  # System
+  wakelock_plus: ^1.4.0
+  url_launcher: ^6.3.2
+  flutter_compass: ^0.8.1
+  vibration: ^3.1.4
+
+  # Notifications
+  flutter_local_notifications: ^19.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  lint: ^2.8.0
+  flutter_lints: ^6.0.0
+
+flutter_gen:
+  output: lib/gen/
+  synthetic_package: false
+
+flutter:
+
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/quran/
+    - assets/databases/
+    - assets/fonts/
+    - assets/pictures/
+    - assets/icons/
+
+  fonts:
+    - family: 'One'
+      fonts:
+        - asset: assets/fonts/one_regular.ttf
+    - family: 'Two'
+      fonts:
+        - asset: assets/fonts/two_medium.ttf
+    - family: 'Three'
+      fonts:
+        - asset: assets/fonts/three_regular.ttf
+    - family: 'Four'
+      fonts:
+        - asset: assets/fonts/four_pro_regular.ttf
+    - family: 'Five'
+      fonts:
+        - asset: assets/fonts/five.ttf
+    - family: 'Six'
+      fonts:
+        - asset: assets/fonts/six_regular.ttf

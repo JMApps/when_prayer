@@ -1,0 +1,211 @@
+{
+  "@@locale": "ka",
+  "appName": "მუსლიმის თარო",
+  "shelf": "თარო ",
+  "muslim": "მუსლიმის",
+
+  "appSlogan": "გადის დღეები – მიდის შენი ნაწილი",
+  "language": "ენა",
+  "languageApp": "აპლიკაციის ენა",
+
+  "settings": "პარამეტრები",
+  "notifications": "შეტყობინებები",
+  "aboutUs": "ჩვენს შესახებ",
+
+  "appTheme": "თემა",
+  "themeModes": "ღია, ბნელი, სისტემური",
+  "colorTheme": "თემის ფერი",
+  "display": "დისპლეი",
+  "alwaysOnDisplay": "დისპლეი ყოველთვის ჩართულია",
+
+  "otherApps": "ჩვენი სხვა აპლიკაციები:",
+  "weSocials": "ჩვენ სოციალურ ქსელებში:",
+  "rateApp": "შეაფასე აპლიკაცია:",
+
+  "gregorianMonthNames": "იანვარი, თებერვალი, მარტი, აპრილი, მაისი, ივნისი, ივლისი, აგვისტო, სექტემბერი, ოქტომბერი, ნოემბერი, დეკემბერი",
+  "hijriMonthNames": "მუჰჰარამი, საფარი, რაბი ალ-ავლი, რაბი ას-სანი, ჯუმადა ალ-ულა, ჯუმადა ალ-ახირა, რაჯაბი, შააბანი, რამადანი, შავვალი, ზულ-ყა'და, ზულ-ჰიჯა",
+
+  "location": "მდებარეობა",
+
+  "prayerParams": "პარამეტრები",
+  "selectedCity": "მიმდინარე ქალაქი",
+  "coordinates": "კორდინატები",
+  "calculationPrayerMethod": "გათვლის მეთოდი",
+  "highLatitude": "მაღალი გეოგრაფიული სიგანე",
+  "madhabMethod": "ასრის ნამაზი",
+  "selectCity": "ქალაქის არჩევა",
+  "addCity": "ქალაქის დამატება",
+  "adjustmentTimes": "წუთების კორექტირება",
+  "information": "ინფორმაცია",
+  "adjustmentMessage": "თუ ლოცვების დროის გათვლის მეთოდის არჩევის შემდეგ არის მცირე სხვაობა ადგილობრივ განრიგთან, შეგიძლიათ გამოიყენოთ წუთების კორექტირება:",
+  "calculationTimeMessage": "ძვირფასო მომხმარებლებო!\n\nშეგიძლიათ ისარგებლოთ აპლიკაციაში ხელმისაწვდომი ლოცვების დროის გათვლის მეთოდებით, ასევე დააკორექტიროთ დრო ხელით. თუ ამის შემდეგაც ლოცვების დრო თქვენს ადგილთან არ დაემთხვევა, ბოდიში, და მოძებნეთ ალტერნატიული გადაწყვეტა Google Play ან App Store-ში.\n\nაპლიკაციაში ხელმისაწვდომი გათვლის მეთოდები:",
+
+  "addCityMessage": "ყველა ველი უნდა იყოს შევსებული.\nგრძედი: -90.0-დან 90.0-მდე\nგანედი: -180.0-დან 180.0-მდე",
+  "enterCountryName": "შეიყვანე ქვეყნის სახელი",
+  "enterCityName": "შეიყვანე ქალაქის სახელი",
+  "enterLatitude": "შეიყვანე გრძედი (მაგ. 21.3924)",
+  "enterLongitude": "შეიყვანე განედი (მაგ. 39.8579)",
+
+  "allFieldsRequired": "ყველა ველი უნდა იყოს შევსებული",
+  "invalidCoordinates": "არასწორი კორდინატები",
+
+  "add": "დამატება",
+  "select": "არჩევა",
+  "cancel": "გაუქმება",
+  "close": "დახურვა",
+  "change": "შეცვლა",
+  "delete": "წაშლა",
+  "defaultAdjustments": "ნაგულისხმევი",
+  "share": "გაზიარება",
+  "copy": "ასლი",
+  "copied": "ასლი გაკეთდა",
+  "reset": "გადატვირთვა",
+  "resetMessage": "გადატვირთო მნიშვნელობები?",
+
+  "search": "ძებნა",
+  "searchIsEmpty": "თქვენი მოთხოვნით ვერაფერი მოიძებნა",
+  "customCityIsEmpty": "თქვენ არ დაგიმატებიათ არცერთი ქალაქი",
+
+  "prayerCalendar": "ლოცვების განრიგი",
+  "prayerSchedule": "განრიგი თვეზე",
+  "dayNumber": "რიცხვი",
+  "qiblah": "ყიბლის მიმართულება",
+
+  "fajr": "ფაჯრი",
+  "dhuhr": "ზუჰრი",
+  "asr": "ასრი",
+  "maghrib": "მაღრიბი",
+  "isha": "იშა",
+
+  "adDuhaTime": "დუჰას ნამაზის დრო",
+  "adhanTime": "აზანის დროს ზიქრები",
+  "adhkarsTime": "ლოცვის შემდეგ ზიქრები",
+
+  "morningAdhkarsTime": "დილის აზქარების დრო",
+  "eveningAdhkarsTime": "საღამოს აზქარების დრო",
+  "nightAdhkarsTime": "არ დაგავიწყდეს აზქარები ძილის წინ!",
+
+  "prayerTime": "ლოცვის დრო",
+  "remind": "შეხსენება",
+  "adhan": "აზანი",
+  "adhkars": "აზქარები",
+  "morningAdhkars": "დილის აზქარები",
+  "eveningAdhkars": "საღამოს აზქარები",
+  "nightAdhkars": "აზქარები ძილის წინ",
+  "fastMonday": "ორშაბათის მარხვა",
+  "fastThursday": "ხუთშაბათის მარხვა",
+
+  "nearWhiteDays": "მოახლოვდა თეთრი დღეები",
+  "whiteDays": "თეთრი დღეები",
+
+  "friday": "ჯუმა",
+  "tomorrowFriday": "ჭეშმარიტად, ალლაჰი და მისი ანგელოზები ახსენებენ წინასწარმეტყველს. ო, მორწმუნეებო! დალოცეთ იგი და მიესალმეთ მშვიდობით.\n\nხვალ ჯუმაა",
+  "lastHourFriday": "ჯუმა დღის ბოლო საათი",
+
+  "prayerNotifications": "ლოცვის შეტყობინება",
+  "adhkarsNotifications": "აზქარების შეტყობინება",
+  "fastingNotifications": "მარხვის შეტყობინება",
+  "fridayNotifications": "ჯუმის შეხსენება",
+
+  "sunrise": "მზის ამოსვლა",
+  "duha": "(ად-დუჰა)",
+  "midnight": "შუაღამე",
+  "lastThirdNightPart": "ღამის ბოლო ⅓",
+  "lengthOfDay": "დღის ხანგრძლივობა",
+  "hourMinuteValues": "საათი, საათის, საათები, წუთი, წუთის, წუთები",
+  "start": "დასაწყისი",
+  "end": "დასასრული",
+
+  "week2DayNamesShort": "ორშ, სამ, ოთხ, ხუთ, პარ, შაბ, კვ",
+  "week2DayNames": "ორშაბათი, სამშაბათი, ოთხშაბათი, ხუთშაბათი, პარასკევი, შაბათი, კვირა",
+
+  "nearFastingDay": "ხვალ სასურველია მარხვა",
+  "fastingDay": "სასურველი მარხვის დღე",
+  "fridaySunans": "ჯუმა დღის სუნეთები",
+
+  "friday_sunna_1": "დიდი განბანვის აღება",
+  "friday_sunna_2": "თვითმოვლა",
+  "friday_sunna_3": "სუფთა ტანსაცმლის ჩაცმა",
+  "friday_sunna_4": "სურნელოვანი ზეთების გამოყენება",
+  "friday_sunna_5": "მეჩეთში ადრე წასვლა",
+  "friday_sunna_6": "მეჩეთში ფეხით წასვლა",
+  "friday_sunna_7": "მინბართან ახლოს ადგილის დაკავება",
+  "friday_sunna_8": "სხვა ადამიანებზე გადაბიჯება მხოლოდ მაშინ, როცა სხვანაირად ვერ მივა საჭირო ადგილამდე",
+  "friday_sunna_9": "ხუტბის დროს ლაპარაკი",
+  "friday_sunna_10": "4 რაქაათი (2-2), ჯუმის შემდეგ მეჩეთში, ან 2 რაქაათი სახლში",
+  "friday_sunna_11": "სურა «ალ-ქაჰფ» წაკითხვა",
+  "friday_sunna_12": "რაც შეიძლება მეტი სალავათის წარმოთქმა წინასწარმეტყველზე ﷺ",
+  "friday_sunna_13": "დუის გაკეთება ჯუმა დღის ბოლო საათში (მაღრიბამდე ერთი საათით ადრე)",
+
+  "mustahab": "სასურველი",
+  "haram": "აკრძალული (ჰარამი)",
+
+  "lastFridayHour": "ჯუმა დღის ბოლო საათი",
+
+  "day": "დღე",
+  "week": "კვირა",
+  "month": "თვე",
+  "year": "წელი",
+
+  "seasonSpring": "გაზაფხული",
+  "seasonSummer": "ზაფხული",
+  "seasonFall": "შემოდგომა",
+  "seasonWinter": "ზამთარი",
+
+  "daysToRamadan": "რამადნამდე დღეები",
+  "blessedRamadan": "დალოცვილი რამადანი",
+  "daysToDhulHujjah": "ზულ-ჰიჯამდე დღეები",
+  "dhulHijjah": "ზულ-ჰიჯას მარხვა",
+  "congratulationRamadan": "იდ ელ'ფითრ მუბარაქ !\nალლაჰმა მიიღოს ჩვენგან და თქვენგან!",
+  "congratulationDhulHijjah": "იდ ალ'ადჰა მუბარაქ!\nალლაჰმა მიიღოს ჩვენგან და თქვენგან!",
+
+  "more": "მეტი",
+  "startRamadan": "რამადნის დასაწყისი",
+  "idAlFitr": "'იდ ალ-ფიტრი",
+  "startDhulHijjah": "ზულ-ჰიჯას დასაწყისი",
+  "dayArafa": "არაფას დღე",
+  "idAlAdha": "'იდ ალ-ადჰა",
+  "dayAshura": "აშურას დღე",
+
+  "backgroundWarmth": "ფონის სითბო",
+  "textContrast": "ტექსტის კონტრასტი",
+
+  "ayahDay": "დღის აიათი",
+
+  "quran": "ყურანი",
+  "sQuran": "დუები ყურანიდან",
+  "fortress": "აზქარები",
+  "gems": "ტარიფის მარგალიტები",
+  "counter": "მთვლელი",
+
+  "fortressMuslim": "მუსლიმის ციხესიმაგრე",
+  "chapter": "თავი",
+
+  "fortressChapterTableName": "Table_of_chapters_ka",
+  "fortressFootnoteTableName": "Table_of_footnotes_ka",
+  "fortressTableName": "Table_of_supplications_ka",
+
+  "morning": "დილით",
+  "evening": "საღამოს",
+  "night": "ძილის წინ",
+  "istikhara": "ისტიხარა",
+  "afterPrayer": "ლოცვის შემდეგ",
+
+  "sfqTableName": "Table_of_supplications_ka",
+  "randomAyah": "შემთხვევითი აიათი",
+  "randomCitation": "შემთხვევითი ციტატა",
+
+  "arabicTextSize": "არაბული ტექსტის ზომა",
+  "translationTextSize": "თარგმნის ტექსტის ზომა",
+  "textSize": "ტექსტის ზომა",
+  "transcription": "ტრანსკრიპცია",
+
+  "surahKahf": "სურა «ალ-ქაჰფ»",
+  "surahSajda": "სურა «ას-საჯდა»",
+  "surahMulk": "სურა «ალ-მულქ»",
+  "djuzAmma": "ჯუზი «'ამმა»",
+
+  "timeOffset": "ზამთრის დრო (DST)",
+
+  "salawatButton": "სალავათი შუამავალზე ﷺ"
+}
