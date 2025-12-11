@@ -6,7 +6,6 @@ import '../../../core/styles/app_styles.dart';
 import '../../../domain/entities/strength_footnote_entity.dart';
 import '../../state/library/strength_state.dart';
 import '../../widgets/app_error_text.dart';
-import 'questions_html_data.dart';
 import 'strength_html_data.dart';
 class StrengthFootnoteData extends StatelessWidget {
   const StrengthFootnoteData({
