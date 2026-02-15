@@ -33,7 +33,7 @@ class DBValueStrings {
 
   // Fortress
   static const String dbFortressName = 'fortress_of_the_muslim.db';
-  static const int dbFortressVersion = 1;
+  static const int dbFortressVersion = 2;
 
   static const String dbFortressChapterId = 'chapter_id';
   static const String dbFortressChapterNumber = 'chapter_number';

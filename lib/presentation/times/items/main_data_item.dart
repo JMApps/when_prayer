@@ -35,7 +35,15 @@ class MainDataItem extends StatelessWidget {
                           child: Padding(
                             padding: AppStyles.mardingHorizontalMini,
                             child: SfDateRangePicker(
-                              headerHeight: 0,
+                              headerHeight: 38,
+                              headerStyle: DateRangePickerHeaderStyle(
+                                textAlign: TextAlign.center,
+                                textStyle: TextStyle(
+                                  fontSize: 16,
+                                  fontWeight: FontWeight.w600,
+                                  color: appColors.onSurface,
+                                ),
+                              ),
                               todayHighlightColor: Colors.transparent,
                               enablePastDates: false,
                               view: DateRangePickerView.month,
@@ -107,7 +115,15 @@ class MainDataItem extends StatelessWidget {
                           child: Padding(
                             padding: AppStyles.mardingHorizontalMini,
                             child: SfHijriDateRangePicker(
-                              headerHeight: 0,
+                              headerHeight: 38,
+                              headerStyle: DateRangePickerHeaderStyle(
+                                textAlign: TextAlign.center,
+                                textStyle: TextStyle(
+                                  fontSize: 16,
+                                  fontWeight: FontWeight.w600,
+                                  color: appColors.onSurface,
+                                ),
+                              ),
                               todayHighlightColor: Colors.transparent,
                               enablePastDates: false,
                               view: HijriDatePickerView.month,

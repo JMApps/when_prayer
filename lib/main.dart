@@ -26,7 +26,7 @@ void main() async {
   final NotificationService notificationService = NotificationService();
   await notificationService.setupNotification();
 
-  await HomeWidget.setAppGroupId('group.com.taqweem.when_prayer');
+  await HomeWidget.setAppGroupId('group.com.taqweem.whenPrayer');
 
   runApp(
     MultiProvider(

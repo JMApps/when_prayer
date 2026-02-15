@@ -1,0 +1,8 @@
+"fajr" = "Фаджр";
+"sunrise" = "Схід сонця";
+"dhuhr" = "Зухр";
+"asr" = "Аср";
+"maghrib" = "Магриб";
+"isha" = "Іша";
+"prayer_times_display_name" = "Час молитв";
+"prayer_times_display_description" = "Відображає час молитв на сьогодні.";
