@@ -105,7 +105,7 @@ class _QuranPageState extends State<QuranPage> {
                           tooltip: appLocale.reset,
                           padding: EdgeInsets.zero,
                           visualDensity: VisualDensity.compact,
-                          icon: const Icon(Icons.replay_circle_filled_rounded),
+                          icon: const Icon(Icons.restart_alt_rounded),
                         ),
                         IconButton(
                           onPressed: () {
@@ -122,7 +122,7 @@ class _QuranPageState extends State<QuranPage> {
                           tooltip: appLocale.settings,
                           padding: EdgeInsets.zero,
                           visualDensity: VisualDensity.compact,
-                          icon: const Icon(Icons.settings),
+                          icon: const Icon(Icons.settings_rounded),
                         ),
                       ],
                     ),

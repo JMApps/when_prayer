@@ -23,7 +23,9 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     final AppLocalizations appLocale = AppLocalizations.of(context)!;
     final ColorScheme appColors = Theme.of(context).colorScheme;
+    final bottomHeight = kBottomNavigationBarHeight + 20;
     return Scaffold(
+      extendBody: true,
       body: CustomScrollView(
         slivers: [
           SliverAppBar(
@@ -62,15 +64,14 @@ class HomePage extends StatelessWidget {
                 SalawatButton(),
                 SeasonTimesContainer(),
                 RestHolidaysContainer(),
-                MainButtonsCard(),
-                SizedBox(height: 4),
                 LibraryButton(),
-                SizedBox(height: 8),
+                SizedBox(height: bottomHeight),
               ],
             ),
           ),
         ],
       ),
+      bottomNavigationBar: MainButtonsCard(),
     );
   }
 }
