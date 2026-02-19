@@ -35,7 +35,7 @@ class MainDataItem extends StatelessWidget {
                           child: Padding(
                             padding: AppStyles.mardingHorizontalMini,
                             child: SfDateRangePicker(
-                              headerHeight: 38,
+                              headerHeight: 0,
                               headerStyle: DateRangePickerHeaderStyle(
                                 textAlign: TextAlign.center,
                                 textStyle: TextStyle(
@@ -115,7 +115,7 @@ class MainDataItem extends StatelessWidget {
                           child: Padding(
                             padding: AppStyles.mardingHorizontalMini,
                             child: SfHijriDateRangePicker(
-                              headerHeight: 38,
+                              headerHeight: 0,
                               headerStyle: DateRangePickerHeaderStyle(
                                 textAlign: TextAlign.center,
                                 textStyle: TextStyle(
